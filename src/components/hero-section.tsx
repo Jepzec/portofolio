@@ -21,7 +21,7 @@ export default function HeroSection() {
           </div>
 
           <h1 className="text-5xl font-bold tracking-tight md:text-7xl">
-            <span className="block text-white">Hello, I'm</span>
+            <span className="block text-white">Hello, I&apos;m</span>
             <span className="mt-2 block text-blue-300">Naufal Satria</span>
           </h1>
 

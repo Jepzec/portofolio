@@ -11,7 +11,7 @@ export default function ContactSection() {
           </div>
 
           <h2 className="mb-4 text-3xl font-bold text-white md:text-4xl">
-            Let's Connect
+            Let&apos;s Connect
           </h2>
 
           <p className="mx-auto max-w-2xl text-blue-200">

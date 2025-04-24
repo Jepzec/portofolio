@@ -48,7 +48,7 @@ export default function ExperienceSection() {
           </h2>
 
           <p className="mx-auto max-w-2xl text-blue-200">
-            My professional journey through the tech industry, where I've
+            My professional journey through the tech industry, where I&apos;ve
             contributed to impactful projects and grown as a developer.
           </p>
         </div>

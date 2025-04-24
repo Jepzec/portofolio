@@ -4,7 +4,7 @@ import ContactSection from "@/components/contact-section";
 import PortfolioSection from "@/components/portfolio-section";
 import TestimonialsSection from "@/components/testimonials-section";
 import ExperienceSection from "@/components/experience-section";
-import Image from "next/image";
+
 import HeroSection from "@/components/hero-section";
 import FooterSection from "@/components/footer-section";
 

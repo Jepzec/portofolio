@@ -62,8 +62,8 @@ export default function TestimonialsSection() {
           </h2>
 
           <p className="mx-auto max-w-2xl text-blue-200">
-            Feedback from clients and colleagues who I've had the pleasure of
-            working with throughout my career.
+            Feedback from clients and colleagues who I&apos;ve had the pleasure
+            of working with throughout my career.
           </p>
         </div>
 
@@ -74,7 +74,7 @@ export default function TestimonialsSection() {
             <div className="relative z-10">
               <div className="text-center transition-opacity duration-300">
                 <p className="mx-auto mb-8 max-w-3xl text-xl text-blue-100 italic md:text-2xl">
-                  "{testimonials[activeIndex].quote}"
+                  &quot;{testimonials[activeIndex].quote}&quot;
                 </p>
 
                 <div className="flex flex-col items-center">

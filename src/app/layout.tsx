@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Image from "next/image";
+
 
 import "./globals.css";
 import Header from "@/components/header";

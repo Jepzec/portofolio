@@ -3,11 +3,11 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { usePathname } from "next/navigation";
+
 
 export default function Header() {
   const [isVisible, setIsVisible] = useState(true);
-  const pathname = usePathname();
+ 
 
   useEffect(() => {
     let lastScrollY = window.scrollY;
@@ -29,7 +29,7 @@ export default function Header() {
     return () => window.removeEventListener("scroll", controlNavbar);
   }, []);
 
-  const navLinks = [];
+
   return (
     <header
       className={`fixed z-50 w-full py-3 shadow-md backdrop-blur-2xl transition-transform duration-300 ${
