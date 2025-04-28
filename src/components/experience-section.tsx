@@ -54,7 +54,6 @@ export default function ExperienceSection() {
         </div>
 
         <div className="relative">
-          {/* Timeline line */}
           <div className="absolute top-0 bottom-0 left-0 w-px transform bg-blue-700/50 md:left-1/2 md:translate-x-[-0.5px]"></div>
 
           <div className="space-y-12">
@@ -80,7 +79,6 @@ export default function ExperienceSection() {
                   )}
                 </div>
 
-                {/* Timeline dot */}
                 <div className="absolute top-0 left-[-8px] h-4 w-4 transform rounded-full border-2 border-blue-300 bg-blue-600 md:left-1/2 md:translate-x-[-50%]"></div>
 
                 <div
