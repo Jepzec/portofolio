@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 
-
 import "./globals.css";
 import Header from "@/components/header";
 
@@ -17,7 +16,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className="scroll-smooth font-poppins bg-linear-to-b from-gray-500  to-black text-white "
+      className="font-poppins scroll-smooth bg-linear-to-b from-gray-500 to-black text-white"
     >
       <body>
         <Header />
