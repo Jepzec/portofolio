@@ -107,7 +107,7 @@ export default function Header() {
               </Link>
             </li>
             <li>
-              <Link
+              <Link  
                 className="relative block h-[30px] w-[30px]"
                 href="https://github.com/Jepzec"
               >
