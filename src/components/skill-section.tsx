@@ -2,42 +2,33 @@ export default function SkillSection() {
   const skills = [
     {
       title: "Frontend",
-      description: "React, Next.js, Vue, Tailwind CSS, Framer Motion",
+      description: "React, Next.js, Tailwind CSS, Framer Motion",
       color: "bg-blue-700",
     },
     {
       title: "Backend",
-      description: "Node.js, Express, NestJS, Django, Laravel",
+      description: "Node.js, Express",
       color: "bg-blue-800",
     },
     {
       title: "Databases",
-      description: "MongoDB, PostgreSQL, MySQL, Redis, Supabase",
+      description: "PostgreSQL, MySQL, Supabase",
       color: "bg-blue-700",
     },
-    {
-      title: "DevOps",
-      description: "Docker, Kubernetes, AWS, Vercel, Netlify",
-      color: "bg-blue-800",
-    },
-    {
-      title: "Architecture",
-      description: "Microservices, Serverless, REST, GraphQL",
-      color: "bg-blue-700",
-    },
+    
     {
       title: "Languages",
-      description: "JavaScript, TypeScript, Python, PHP, Go",
+      description: "JavaScript, TypeScript",
       color: "bg-blue-800",
     },
     {
       title: "Design",
-      description: "Figma, Adobe XD, UI/UX Principles",
+      description: "Figma, Adobe Ai/Ps, Canva",
       color: "bg-blue-700",
     },
     {
       title: "Tools",
-      description: "Git, GitHub, VS Code, Postman, Jira",
+      description: "Git, GitHub, VS Code, Postman",
       color: "bg-blue-800",
     },
   ];

@@ -6,7 +6,7 @@ export default function PortfolioSection() {
       title: "E-Commerce Platform",
       description:
         "A full-stack e-commerce solution with payment processing, inventory management, and admin dashboard.",
-      image: "/ProjectImg.jpg",
+      image: "/under-maintenance.jpg",
       tags: ["Next.js", "Node.js", "MongoDB", "Stripe"],
       liveUrl: "#",
       githubUrl: "#",
@@ -15,7 +15,7 @@ export default function PortfolioSection() {
       title: "Task Management App",
       description:
         "A collaborative task management application with real-time updates and team workspaces.",
-      image: "/ProjectImg.jpg",
+      image: "/under-maintenance.jpg",
       tags: ["React", "Firebase", "Tailwind CSS", "Redux"],
       liveUrl: "#",
       githubUrl: "#",
@@ -24,7 +24,7 @@ export default function PortfolioSection() {
       title: "AI Content Generator",
       description:
         "An AI-powered application that generates marketing copy, blog posts, and social media content.",
-      image: "/ProjectImg.jpg",
+      image: "/under-maintenance.jpg",
       tags: ["Vue.js", "Python", "OpenAI", "FastAPI"],
       liveUrl: "#",
       githubUrl: "#",
@@ -33,7 +33,7 @@ export default function PortfolioSection() {
       title: "Real Estate Platform",
       description:
         "A property listing and management platform with virtual tours and mortgage calculator.",
-      image: "/ProjectImg.jpg",
+      image: "/under-maintenance.jpg",
       tags: ["Next.js", "PostgreSQL", "Mapbox", "AWS"],
       liveUrl: "#",
       githubUrl: "#",

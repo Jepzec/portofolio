@@ -38,9 +38,8 @@ export default function AboutSection() {
             </h2>
 
             <p className="text-justify leading-relaxed text-blue-200">
-              I&apos;m student full-stack developer at Purwadhika with over 100+
-              years of experience building web applications that are both
-              functional and beautiful. My journey in tech began with a
+              I&apos;m student full-stack developer at Purwadhika 
+               My journey in tech began with a
               curiosity about how things work, which evolved into a career
               creating digital solutions.
             </p>

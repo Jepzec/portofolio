@@ -25,7 +25,7 @@ export default function TestimonialsSection() {
     {
       quote:
         "Naufal technical expertise and ability to translate complex requirements into elegant solutions is impressive. He's a collaborative team player who elevates the entire project.",
-      name: "Ashton Hole",
+      name: "Ashton Hall",
       position: "CEO, Ice Facewash",
       avatar: "/asston.jpeg",
     },
