@@ -181,7 +181,7 @@ export default function Header() {
               <li className="flex justify-center gap-3 pt-2">
                 <Link
                   className="relative block h-[30px] w-[30px]"
-                  href="https://www.linkedin.com/in/naufal-khadhi-satria-2a8786345/"
+                  href="https://www.linkedin.com/in/muhammad-naufal-khadhi-satria-2a8786345/"
                 >
                   <Image src={"/linkedin.svg"} alt="linkedin logo" fill />
                 </Link>
