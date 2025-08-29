@@ -101,7 +101,7 @@ export default function Header() {
             <li>
               <Link
                 className="relative block h-[30px] w-[30px]"
-                href="https://www.linkedin.com/in/naufal-khadhi-satria-2a8786345/"
+                href="https://www.linkedin.com/in/muhammad-naufal-khadhi-satria-2a8786345/" target="_blank"
               >
                 <Image src={"/linkedin.svg"} alt="linkedin logo" fill />
               </Link>
@@ -110,6 +110,7 @@ export default function Header() {
               <Link  
                 className="relative block h-[30px] w-[30px]"
                 href="https://github.com/Jepzec"
+                target="_blank"
               >
                 <Image src={"/github.svg"} alt="Github logo" fill />
               </Link>
@@ -181,14 +182,14 @@ export default function Header() {
               <li className="flex justify-center gap-3 pt-2">
                 <Link
                   className="relative block h-[30px] w-[30px]"
-                  href="https://www.linkedin.com/in/muhammad-naufal-khadhi-satria-2a8786345/"
+                  href="https://www.linkedin.com/in/muhammad-naufal-khadhi-satria-2a8786345/" target="_blank"
                 >
                   <Image src={"/linkedin.svg"} alt="linkedin logo" fill />
                 </Link>
                 <Link
                   className="relative block h-[30px] w-[30px]"
                   href="https://github.com/Jepzec"
-                >
+                 target="_blank" >
                   <Image src={"/github.svg"} alt="Github logo" fill />
                 </Link>
               </li>
