@@ -37,8 +37,8 @@ export default function ContactSection() {
               <Image
                 src={"/email.svg"}
                 alt={"logo email"}
-                width={50}
-                height={50}
+                width={55}
+                height={55}
               />
             </Link>
             <p>mnaufalkadisatria13@gmail.com</p>
