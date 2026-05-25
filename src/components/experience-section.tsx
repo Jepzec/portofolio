@@ -1,8 +1,8 @@
 export default function ExperienceSection() {
   const experiences = [
     {
-      position: "Senior Full-Stack Developer",
-      company: "Tech Innovations Inc.",
+      position: "Purwadhika Bootcamp Student",
+      company: "Purwadhika Digital Technology School",
       period: "2021 - Present",
       description:
         "Lead developer for enterprise SaaS products, managing a team of 5 developers and implementing CI/CD pipelines that reduced deployment time by 40%.",
