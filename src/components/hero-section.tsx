@@ -22,7 +22,7 @@ export default function HeroSection() {
 
           <h1 className="text-5xl font-bold tracking-tight md:text-7xl">
             <span className="block text-white">Hello, I&apos;m</span>
-            <span className="mt-2 block text-blue-300">Naufal Satria</span>
+            <span className="mt-2 block text-blue-300">Naufal Khadhi Satria</span>
           </h1>
 
           <p className="mx-auto mt-6 max-w-2xl text-xl text-blue-200">
